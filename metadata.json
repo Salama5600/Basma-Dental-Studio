@@ -1,0 +1,6 @@
+{
+  "name": "Basma Dental Studio",
+  "description": "A thoughtful dental studio in Cairo. Explore whitening shades in our interactive Smile Lab and discover your kind of bright.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
